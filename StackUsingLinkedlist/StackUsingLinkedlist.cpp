@@ -49,10 +49,10 @@ public:
 			}
 			cout << endl;
 		}
+	}
 
-		bool isEmpty() {
-			return top == NULL;
-		}
+	bool isEmpty() {
+		return top == NULL;
 	}
 };
 
